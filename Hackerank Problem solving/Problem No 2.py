@@ -6,13 +6,6 @@ import random
 import re
 import sys
 
-#
-# Complete the 'decryptPassword' function below.
-#
-# The function is expected to return a STRING.
-# The function accepts STRING s as parameter.
-#
-
 def decryptPassword(s):
     s = list(s)
     res = []
